@@ -1,0 +1,37 @@
+[{
+        "service_id": "uswest1-day1-USA",
+        "plan_id": 2,
+        "profile_version": "1.0",
+        "profile_expire_time": 1499568400,
+        "vpn_id": "amc@gmail.com",
+        "psk": "100100",
+        "ike_port": 35620,
+        "natt_port": 35621,
+        "urls":"US100.json",
+        "client_ip": "98.210.160.185"
+    },
+    {
+        "service_id": "uswest1-day1-NLD",
+        "plan_id": 2,
+        "profile_version": "1.0",
+        "profile_expire_time": 1499568400,
+        "vpn_id": "aaa@gmail.com",
+        "psk": "100100",
+        "ike_port": 35620,
+        "natt_port": 35621,
+        "urls":"UK100.json",
+        "client_ip": "178.18.25.31"
+    },
+   {
+          "service_id": "useast1-day1-USA",
+          "plan_id": 2,
+          "profile_version": "1.0",
+          "profile_expire_time": 1499568400,
+          "vpn_id": "amc2@gmail.com",
+          "psk": "100100",
+          "ike_port": 35620,
+          "natt_port": 35621,
+          "urls":"korea.json",
+          "client_ip": "72.229.28.185"
+}
+]
